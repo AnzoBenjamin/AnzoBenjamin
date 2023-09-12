@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anzobenjamin" alt="anzobenjamin" /></a> </p>
 
-- 🔭 I’m currently working on [Film Frenzy](https://github.com/AnzoBenjamin/Film-Frenzy)
-
+- 🔭 I’m currently working on a client's website
 - 💬 Ask me about **React, Node and Express**
 
 - 📫 How to reach me **anzobnjmn@gmail.com**
