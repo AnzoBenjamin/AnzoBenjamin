@@ -1,14 +1,14 @@
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h1 style="color: #58a6ff; font-size: 36px; margin-top: 20px;">Anzo Benjamin</h1>
-  <h3 style="color: #8b949e; font-size: 24px;">Fullstack Developer | React | Node | Express</h3>
-  <p style="color: #8b949e;">Passionate about creating robust and scalable web applications</p>
-  <a href="mailto:anzobnjmn@gmail.com" style="text-decoration: none; color: #58a6ff; margin: 0 10px;">📧 Email</a>
-  <a href="https://your-portfolio-url.com" style="text-decoration: none; color: #58a6ff; margin: 0 10px;">🌐 Portfolio</a>
-  <a href="https://www.linkedin.com/in/your-linkedin" style="text-decoration: none; color: #58a6ff; margin: 0 10px;">💼 LinkedIn</a>
+<div align="center" style=" padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h1 style=" font-size: 36px; margin-top: 20px;">Anzo Benjamin</h1>
+  <h3 style=" font-size: 24px;">Fullstack Developer | React | Node | Express</h3>
+  <p style="">Passionate about creating robust and scalable web applications</p>
+  <a href="mailto:anzobnjmn@gmail.com" style="text-decoration: none;  margin: 0 10px;">📧 Email</a>
+  <a href="https://your-portfolio-url.com" style="text-decoration: none;  margin: 0 10px;">🌐 Portfolio</a>
+  <a href="https://www.linkedin.com/in/your-linkedin" style="text-decoration: none;  margin: 0 10px;">💼 LinkedIn</a>
 </div>
 
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="color: #58a6ff; font-size: 24px; margin-bottom: 20px;">🛠️ Skills & Technologies</h2>
+<div align="center" style=" padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style=" font-size: 24px; margin-bottom: 20px;">🛠️ Skills & Technologies</h2>
   <table>
     <tr>
       <td align="center" style="padding: 10px;">
@@ -131,27 +131,27 @@
   </table>
 </div>
 
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="color: #58a6ff; font-size: 24px; margin-bottom: 20px;">🚀 Featured Projects</h2>
+<div align="center" style="padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style=" font-size: 24px; margin-bottom: 20px;">🚀 Featured Projects</h2>
   <table>
     <tr>
       <td align="center" style="padding: 10px;">
-        <h3 style="color: #58a6ff;">Project 1</h3>
-        <p style="color: #8b949e;">Brief description of Project 1</p>
-        <a href="https://github.com/yourusername/project1" style="text-decoration: none; color: #58a6ff;">View on GitHub</a>
+        <h3 style="">Project 1</h3>
+        <p style="">Brief description of Project 1</p>
+        <a href="https://github.com/yourusername/project1" style="text-decoration: none; ">View on GitHub</a>
       </td>
       <td align="center" style="padding: 10px;">
-        <h3 style="color: #58a6ff;">Project 2</h3>
-        <p style="color: #8b949e;">Brief description of Project 2</p>
-        <a href="https://github.com/yourusername/project2" style="text-decoration: none; color: #58a6ff;">View on GitHub</a>
+        <h3 style="">Project 2</h3>
+        <p style="">Brief description of Project 2</p>
+        <a href="https://github.com/yourusername/project2" style="text-decoration: none; ">View on GitHub</a>
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="color: #58a6ff; font-size: 24px; margin-bottom: 20px;">📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=anzobenjamin&show_icons=true&theme=github_dark&hide_border=true" alt="Anzo Benjamin's GitHub Stats" style="margin-bottom: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anzobenjamin&theme=github-dark-blue&hide_border=true" alt="Anzo Benjamin's GitHub Streak" style="margin-bottom: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzobenjamin&layout=compact&theme=github_dark&hide_border=true" alt="Anzo Benjamin's Top Languages">
+<div align="center" style="padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style=" font-size: 24px; margin-bottom: 20px;">📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=anzobenjamin&show_icons=true&theme=github_light&hide_border=true" alt="Anzo Benjamin's GitHub Stats" style="margin-bottom: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anzobenjamin&theme=github-light&hide_border=true" alt="Anzo Benjamin's GitHub Streak" style="margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzobenjamin&layout=compact&theme=github_light&hide_border=true" alt="Anzo Benjamin's Top Languages">
 </div>
