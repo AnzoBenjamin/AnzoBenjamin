@@ -1,5 +1,4 @@
 <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <img src="https://your-custom-image-url.com/banner.png" alt="Anzo Benjamin Banner" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px;">
   <h1 style="color: #58a6ff; font-size: 36px; margin-top: 20px;">Anzo Benjamin</h1>
   <h3 style="color: #8b949e; font-size: 24px;">Fullstack Developer | React | Node | Express</h3>
   <p style="color: #8b949e;">Passionate about creating robust and scalable web applications</p>
