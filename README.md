@@ -2,9 +2,11 @@
   <h1 style="color: #58a6ff; font-size: 36px; margin-top: 20px;">Anzo Benjamin</h1>
   <h3 style="color: #8b949e; font-size: 24px;">Fullstack Developer | React | Node | Express</h3>
   <p style="color: #8b949e;">Passionate about creating robust and scalable web applications</p>
+  <div style="display: flex; gap: 2.4rem;">
   <a href="mailto:anzobnjmn@gmail.com" style="text-decoration: none; color: #58a6ff; margin: 0 10px;">📧 Email</a>
   <a href="https://your-portfolio-url.com" style="text-decoration: none; color: #58a6ff; margin: 0 10px;">🌐 Portfolio</a>
   <a href="https://www.linkedin.com/in/your-linkedin" style="text-decoration: none; color: #58a6ff; margin: 0 10px;">💼 LinkedIn</a>
+  </div>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
