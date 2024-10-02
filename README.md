@@ -131,23 +131,6 @@
   </table>
 </div>
 
-<div align="center" style="padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style=" font-size: 24px; margin-bottom: 20px;">🚀 Featured Projects</h2>
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <h3 style="">Project 1</h3>
-        <p style="">Brief description of Project 1</p>
-        <a href="https://github.com/yourusername/project1" style="text-decoration: none; ">View on GitHub</a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <h3 style="">Project 2</h3>
-        <p style="">Brief description of Project 2</p>
-        <a href="https://github.com/yourusername/project2" style="text-decoration: none; ">View on GitHub</a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center" style="padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style=" font-size: 24px; margin-bottom: 20px;">📊 GitHub Stats</h2>
