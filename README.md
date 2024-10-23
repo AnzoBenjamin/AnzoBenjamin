@@ -11,6 +11,9 @@
   <h2 style=" font-size: 24px; margin-bottom: 20px;">🛠️ Skills & Technologies</h2>
   <table>
     <tr>
+      <td>
+        
+      </td>
       <td align="center" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android">
         <br>Android
@@ -20,8 +23,8 @@
         <br>Bash
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" alt="Blender">
-        <br>Blender
+        <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
+        <br>Appwrite
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap">
@@ -63,10 +66,6 @@
       </td>
     </tr>
     <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin">
-        <br>Kotlin
-      </td>
       <td align="center" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">
         <br>Linux
