@@ -11,9 +11,6 @@
   <h2 style=" font-size: 24px; margin-bottom: 20px;">🛠️ Skills & Technologies</h2>
   <table>
     <tr>
-      <td>
-        
-      </td>
       <td align="center" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android">
         <br>Android
