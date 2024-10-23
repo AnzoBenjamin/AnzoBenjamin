@@ -1,4 +1,12 @@
+
+
 <div align="center" style=" padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+
+  <h1 style=" font-size: 36px; margin-top: 20px;">Anzo Benjamin</h1>
+  <h3 style=" font-size: 24px;"> Fullstack Developer | React | Svelte | Node | Elixir | Go </h3>
+  <p style="">Passionate about creating robust and scalable web applications</p>
+  <a href="mailto:anzobnjmn@gmail.com" style="text-decoration: none;  margin: 0 10px;">📧 Email</a>
+  <a href="https://your-portfolio-url.com" style="text-decoration: none;  margin: 0 10px;">🌐 Portfolio</a>
   <h2 style=" font-size: 24px; margin-bottom: 20px;">🛠️ Skills & Technologies</h2>
   <table>
     <tr>
